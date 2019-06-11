@@ -16,4 +16,5 @@ $x = (int)fgets(STDIN);
 print "Digite outro número: ";
 $y = (int)fgets(STDIN);
 
+
 print divisivel ($x,$y);
