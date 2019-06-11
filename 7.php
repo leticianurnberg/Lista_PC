@@ -44,4 +44,5 @@ function mes ($mes) {
 }
 print "Digite um número: ";
 $mes = (int)fgets(STDIN);
+
 print mes ($mes);
